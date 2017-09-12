@@ -1,0 +1,13 @@
+version: '2'
+
+services:
+
+  geoserver:
+    image: fiware/gisdataprovider
+    # Reference https://hub.docker.com/r/fiware/gisdataprovider/
+    volumes:
+      - ./data:/usr/share/tomcat7/webapps/geoserver/data
+    ports:
+      - "9090:8080"
+    environment:
+      ES_JAVA_OPTS: "-Xmx256m -Xms256m"
