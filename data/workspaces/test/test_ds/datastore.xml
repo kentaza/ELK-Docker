@@ -1,0 +1,23 @@
+<dataStore>
+  <id>DataStoreInfoImpl--56ad22a8:15e797c795e:-7ffb</id>
+  <name>test_ds</name>
+  <description>test ds</description>
+  <type>Directory of spatial files (shapefiles)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--56ad22a8:15e797c795e:-7ffd</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="memory mapped buffer">false</entry>
+    <entry key="timezone">Etc/UTC</entry>
+    <entry key="fstype">shape</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="charset">ISO-8859-1</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file:Hadyai</entry>
+    <entry key="namespace">http://localhost:9090/geoserver/test</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

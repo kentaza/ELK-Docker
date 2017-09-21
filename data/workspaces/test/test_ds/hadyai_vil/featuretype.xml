@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56ad22a8:15e797c795e:-7ffa</id>
+  <name>hadyai_vil</name>
+  <nativeName>hadyai_vil</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--56ad22a8:15e797c795e:-7ffc</id>
+  </namespace>
+  <title>hadyai_vil</title>
+  <keywords>
+    <string>hadyai_vil</string>
+    <string>features</string>
+  </keywords>
+  <srs>EPSG:32647</srs>
+  <nativeBoundingBox>
+    <minx>631866.963048935</minx>
+    <maxx>677997.0295239205</maxx>
+    <miny>748605.6609660918</miny>
+    <maxy>791055.6681053439</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>100.19323881244443</minx>
+    <maxx>100.61187299053974</maxx>
+    <miny>6.769886101226719</miny>
+    <maxy>7.15500765863066</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
+  DATUM[&quot;WGS84&quot;, 
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56ad22a8:15e797c795e:-7ffb</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

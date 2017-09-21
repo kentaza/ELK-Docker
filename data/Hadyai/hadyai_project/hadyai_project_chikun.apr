@@ -1,0 +1,1221 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Project"
+	Roots:	2
+	Version:	32
+)
+
+(Project.2
+	Name:	"hadyai_project_chikun.apr"
+	CreationDate:	"12 มิถุนายน 2552 14:52:54"
+	GUIName:	"Project"
+	Win:	3
+	CSMgr:	4
+	DocExts:	5
+	VisGUIWidth:	70
+	Doc:	6
+	Doc:	135
+	Doc:	36
+	Doc:	154
+	ActiveDoc:	36
+	Buttons:	167
+	Buttons:	168
+	Buttons:	169
+	Scripts:	170
+	Prefs:	171
+	WorkDir:	999
+	WinX:	-4
+	WinY:	-3
+	WinW:	1288
+	WinH:	777
+	SerialNumber:	"911111111111"
+	SelColor:	1000
+	GUINames:	1001
+	GUINames:	1002
+	GUINames:	1003
+	GUINames:	1004
+	GUINames:	1005
+	GUINames:	1006
+	GUINames:	1007
+	TocWidthScale:	1.00000000000000
+)
+
+(DocWin.3
+	Owner:	2
+	Open:	1
+	X:	-4
+	Y:	-4
+	W:	1290
+	H:	665
+)
+
+(CSMgr.4
+)
+
+(DocAct.5
+	Doc:	2
+)
+
+(Table.6
+	Name:	"Attributes of Hadyai_tam.shp"
+	CreationDate:	"13 มิถุนายน 2552 12:16:07"
+	GUIName:	"Table"
+	Win:	7
+	CSMgr:	8
+	DocExts:	153
+	VTab:	14
+)
+
+(DocWin.7
+	Owner:	6
+	X:	-4
+	Y:	-4
+	W:	1290
+	H:	665
+)
+
+(CSMgr.8
+	Client:	9
+)
+
+(CSClient.9
+	Client:	10
+	ReqName:	"RespondTable"
+)
+
+(FTheme.10
+	Name:	"Hadyai_tam.shp"
+	Source:	11
+	Flags:	0x04
+	Legend:	22
+	Threshold:	35
+	View:	36
+	GSet:	148
+	LegEditScript:	"View.EditLegend"
+	TxPos:	149
+	LabelField:	16
+	Table:	6
+	AttrRules:	150
+	AttrRules:	151
+	AttrRules:	152
+	SnapTolCursor:	1
+)
+
+(ShpSrc.11
+	Name:	12
+	FTab:	14
+)
+
+(SrcName.12
+	FileName:	13
+	Name:	"hadyai_tam.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.13
+	Path:	"e:/hadyai2/shape_tam/hadyai_tam.shp"
+)
+
+(FTab.14
+	Name:	"hadyai_tam.dbf"
+	BTab:	15
+	Fields:	20
+	Fields:	16
+	Fields:	17
+	Fields:	18
+	SelBits:	21
+	FSrc:	11
+)
+
+(dBASE.15
+	Name:	"hadyai_tam.dbf"
+	Fields:	16
+	Fields:	17
+	Fields:	18
+	FileName:	19
+)
+
+(Field.16
+	Name:	"Tam_name"
+	Btab:	15
+	Alias:	"Tam_name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.17
+	Name:	"Count"
+	Btab:	15
+	Alias:	"Count"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	71
+)
+
+(Field.18
+	Name:	"Shikun"
+	Btab:	15
+	Alias:	"Shikun"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	101
+)
+
+(FN.19
+	Path:	"e:/hadyai2/shape_tam/hadyai_tam.dbf"
+)
+
+(Field.20
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	53
+)
+
+(Bitmap.21
+	NumBits:	13
+	Bits:	00000000 
+)
+
+(Legend.22
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	23
+	Class:	28
+	StdDevs:	1.00000000000000
+	NullSym:	29
+	NullValues:	33
+	StatValues:	34
+	Precision:	-3
+)
+
+(SymList.23
+	Child:	24
+)
+
+(BShSym.24
+	Color:	25
+	Outline:	1
+	OutlineColor:	26
+	OutlineWidth:	2.00000000000000
+	BgColor:	27
+)
+
+(TClr.25
+	Name:	"Transparent"
+)
+
+(TClr.26
+	Red:	0xd9d
+	Green:	0x81
+	Blue:	0x8200
+)
+
+(TClr.27
+	Name:	"Transparent"
+)
+
+(LClass.28
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.29
+	Color:	30
+	Outline:	1
+	OutlineColor:	31
+	OutlineWidth:	0.10000000000000
+	BgColor:	32
+)
+
+(TClr.30
+	Name:	"Transparent"
+)
+
+(TClr.31
+	Name:	"Transparent"
+)
+
+(TClr.32
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.33
+)
+
+(NameDict.34
+)
+
+(Thresh.35
+)
+
+(View.36
+	Name:	"View1"
+	CreationDate:	"12 มิถุนายน 2552 14:52:56"
+	GUIName:	"View"
+	Win:	37
+	CSMgr:	38
+	DocExts:	40
+	DocExts:	41
+	Graphics:	42
+	Theme:	49
+	Theme:	10
+	Theme:	81
+	Dpy:	43
+	TOCWidth:	150
+	CoordPrecision:	2
+)
+
+(DocWin.37
+	Owner:	36
+	Open:	1
+	X:	-4
+	Y:	-4
+	W:	1290
+	H:	665
+)
+
+(CSMgr.38
+	Client:	39
+)
+
+(CSClient.39
+	Client:	40
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.40
+	Doc:	36
+)
+
+(DocAct.41
+	Doc:	36
+)
+
+(GList.42
+	Dpy:	43
+	FormatNumb:	48
+)
+
+(MapDpy.43
+	Left:	629560.45972518576000
+	Bottom:	746483.16060912923000
+	Top:	793178.16846230649000
+	Right:	680303.53284766979000
+	Scale:	44
+	FrameTop:	6.53125000000000
+	FrameRight:	11.71875000000000
+	PageDpy:	45
+	FitToPage:	1
+	MouseLoc:	47
+)
+
+(Numb.44
+	N:	0.00013987041228
+)
+
+(PageDpy.45
+	Top:	6.53125000000000
+	Right:	11.71875000000000
+	ReportUnits:	1
+	Units:	1
+	Scale:	46
+	ZoomRight:	11.71875000000000
+	ZoomTop:	6.53125000000000
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+)
+
+(Numb.46
+	N:	96.00000000000000
+)
+
+(PointD.47
+	x:	616242.91083231999000
+	y:	793029.22106883547000
+)
+
+(Numb.48
+)
+
+(FTheme.49
+	Name:	"Linetum.shp"
+	Source:	50
+	Flags:	0x06
+	Legend:	61
+	Threshold:	75
+	View:	36
+	GSet:	76
+	LegEditScript:	"View.EditLegend"
+	TxPos:	77
+	LabelField:	55
+	AttrRules:	78
+	AttrRules:	79
+	AttrRules:	80
+	SnapTolCursor:	1
+)
+
+(ShpSrc.50
+	Name:	51
+	FTab:	53
+)
+
+(SrcName.51
+	FileName:	52
+	Name:	"linetum.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.52
+	Path:	"e:/hadyai/linetum.shp"
+)
+
+(FTab.53
+	Name:	"linetum.dbf"
+	BTab:	54
+	Fields:	59
+	Fields:	55
+	Fields:	56
+	Fields:	57
+	SelBits:	60
+	FSrc:	50
+)
+
+(dBASE.54
+	Name:	"linetum.dbf"
+	Fields:	55
+	Fields:	56
+	Fields:	57
+	FileName:	58
+)
+
+(Field.55
+	Name:	"Tam_name"
+	Btab:	54
+	Alias:	"Tam_name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.56
+	Name:	"Count"
+	Btab:	54
+	Alias:	"Count"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	71
+)
+
+(Field.57
+	Name:	"Shikun"
+	Btab:	54
+	Alias:	"Shikun"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	101
+)
+
+(FN.58
+	Path:	"e:/hadyai/linetum.dbf"
+)
+
+(Field.59
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.60
+	NumBits:	13
+
+)
+
+(Legend.61
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	62
+	Class:	68
+	StdDevs:	1.00000000000000
+	NullSym:	69
+	NullValues:	73
+	StatValues:	74
+	Precision:	-3
+)
+
+(SymList.62
+	Child:	63
+)
+
+(BShSym.63
+	Color:	64
+	Outline:	1
+	OutlineColor:	65
+	OutlineWidth:	2.00000000000000
+	BgColor:	66
+	Style:	0x01
+	Stipple:	67
+)
+
+(TClr.64
+	Blue:	0xffff
+)
+
+(TClr.65
+	Red:	0xd9d
+	Green:	0x81
+	Blue:	0x8200
+)
+
+(TClr.66
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.67
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(LClass.68
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.69
+	Color:	70
+	Outline:	1
+	OutlineColor:	71
+	OutlineWidth:	0.10000000000000
+	BgColor:	72
+)
+
+(TClr.70
+	Name:	"Transparent"
+)
+
+(TClr.71
+	Name:	"Transparent"
+)
+
+(TClr.72
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.73
+)
+
+(NameDict.74
+)
+
+(Thresh.75
+)
+
+(GSet.76
+)
+
+(TxPosPly.77
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.78
+	FTab:	53
+	Field:	55
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.79
+	FTab:	53
+	Field:	56
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.80
+	FTab:	53
+	Field:	57
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.81
+	Name:	"Hadyai_vil.shp"
+	Source:	82
+	Flags:	0x07
+	Legend:	98
+	Threshold:	132
+	View:	36
+	GSet:	133
+	LegEditScript:	"View.EditLegend"
+	TxPos:	134
+	LabelField:	87
+	Table:	135
+	AttrRules:	140
+	AttrRules:	141
+	AttrRules:	142
+	AttrRules:	143
+	AttrRules:	144
+	AttrRules:	145
+	AttrRules:	146
+	AttrRules:	147
+	SnapTolCursor:	1
+)
+
+(ShpSrc.82
+	Name:	83
+	FTab:	85
+)
+
+(SrcName.83
+	FileName:	84
+	Name:	"hadyai_vil.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.84
+	Path:	"e:/hadyai/hadyai_vil.shp"
+)
+
+(FTab.85
+	Name:	"hadyai_vil.dbf"
+	BTab:	86
+	Fields:	96
+	Fields:	87
+	Fields:	88
+	Fields:	89
+	Fields:	90
+	Fields:	91
+	Fields:	92
+	Fields:	93
+	Fields:	94
+	SelBits:	97
+	FSrc:	82
+)
+
+(dBASE.86
+	Name:	"hadyai_vil.dbf"
+	Fields:	87
+	Fields:	88
+	Fields:	89
+	Fields:	90
+	Fields:	91
+	Fields:	92
+	Fields:	93
+	Fields:	94
+	FileName:	95
+)
+
+(Field.87
+	Name:	"Amp_name"
+	Btab:	86
+	Alias:	"Amp_name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	113
+)
+
+(Field.88
+	Name:	"Tam_name"
+	Btab:	86
+	Alias:	"Tam_name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.89
+	Name:	"Vill_name"
+	Btab:	86
+	Alias:	"Vill_name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.90
+	Name:	"หมู่ที่"
+	Btab:	86
+	Alias:	"หมู่ที่"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	41
+)
+
+(Field.91
+	Name:	"E1_506_23"
+	Btab:	86
+	Alias:	"E1_506_23"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.92
+	Name:	"E1_506_21"
+	Btab:	86
+	Alias:	"E1_506_21"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.93
+	Name:	"E1_506_22"
+	Btab:	86
+	Alias:	"E1_506_22"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.94
+	Name:	"E1_506_24"
+	Btab:	86
+	Alias:	"E1_506_24"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	101
+)
+
+(FN.95
+	Path:	"e:/hadyai/hadyai_vil.dbf"
+)
+
+(Field.96
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	53
+)
+
+(Bitmap.97
+	NumBits:	91
+	Bits:	00000000 00000000 00000000 
+)
+
+(Legend.98
+	SymType:	0x02
+	LegType:	0x02
+	ClassType:	0x03
+	FieldNames:	99
+	Symbols:	100
+	Class:	121
+	Class:	122
+	Class:	123
+	Class:	124
+	Class:	125
+	StdDevs:	1.00000000000000
+	NullSym:	126
+	NullValues:	130
+	StatValues:	131
+	Precision:	-3
+)
+
+(AVStr.99
+	S:	"E1_506_24"
+)
+
+(SymList.100
+	Child:	101
+	Child:	105
+	Child:	109
+	Child:	113
+	Child:	117
+)
+
+(BShSym.101
+	Color:	102
+	Outline:	1
+	OutlineColor:	103
+	OutlineWidth:	0.10000000000000
+	BgColor:	104
+)
+
+(TClr.102
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TClr.103
+)
+
+(TClr.104
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.105
+	Color:	106
+	Outline:	1
+	OutlineColor:	107
+	OutlineWidth:	0.10000000000000
+	BgColor:	108
+)
+
+(TClr.106
+	Red:	0x299
+	Green:	0xdc00
+	Blue:	0xdb
+)
+
+(TClr.107
+)
+
+(TClr.108
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.109
+	Color:	110
+	Outline:	1
+	OutlineColor:	111
+	OutlineWidth:	0.10000000000000
+	BgColor:	112
+)
+
+(TClr.110
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.111
+)
+
+(TClr.112
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.113
+	Color:	114
+	Outline:	1
+	OutlineColor:	115
+	OutlineWidth:	0.10000000000000
+	BgColor:	116
+)
+
+(TClr.114
+	Red:	0xdc00
+	Green:	0xdb
+	Blue:	0xdb
+)
+
+(TClr.115
+)
+
+(TClr.116
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.117
+	Color:	118
+	Outline:	1
+	OutlineColor:	119
+	OutlineWidth:	0.10000000000000
+	BgColor:	120
+)
+
+(TClr.118
+	Name:	"Transparent"
+)
+
+(TClr.119
+	Name:	"Transparent"
+)
+
+(TClr.120
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.121
+	Label:	"1"
+	MinNum:	1.00000000000000
+	MaxNum:	1.00000000000000
+	Precision:	-3
+)
+
+(LClass.122
+	Label:	"2"
+	MinNum:	2.00000000000000
+	MaxNum:	2.00000000000000
+	Precision:	-3
+)
+
+(LClass.123
+	Label:	"3"
+	MinNum:	3.00000000000000
+	MaxNum:	3.00000000000000
+	Precision:	-3
+)
+
+(LClass.124
+	Label:	"4"
+	MinNum:	4.00000000000000
+	MaxNum:	4.00000000000000
+	Precision:	-3
+)
+
+(LClass.125
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(BShSym.126
+	Color:	127
+	Outline:	1
+	OutlineColor:	128
+	OutlineWidth:	0.10000000000000
+	BgColor:	129
+)
+
+(TClr.127
+	Name:	"Transparent"
+)
+
+(TClr.128
+	Name:	"Transparent"
+)
+
+(TClr.129
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.130
+)
+
+(NameDict.131
+)
+
+(Thresh.132
+)
+
+(GSet.133
+)
+
+(TxPosPly.134
+	HAlign:	3
+	VAlign:	3
+)
+
+(Table.135
+	Name:	"Attributes of Hadyai_vil.shp"
+	CreationDate:	"12 มิถุนายน 2552 14:56:01"
+	GUIName:	"Table"
+	Win:	136
+	CSMgr:	137
+	DocExts:	139
+	VTab:	85
+)
+
+(DocWin.136
+	Owner:	135
+	X:	-4
+	Y:	-4
+	W:	1290
+	H:	665
+)
+
+(CSMgr.137
+	Client:	138
+)
+
+(CSClient.138
+	Client:	81
+	ReqName:	"RespondTable"
+)
+
+(DocAct.139
+	Doc:	135
+)
+
+(AttrSingle.140
+	FTab:	85
+	Field:	87
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.141
+	FTab:	85
+	Field:	88
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.142
+	FTab:	85
+	Field:	89
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.143
+	FTab:	85
+	Field:	90
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.144
+	FTab:	85
+	Field:	91
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.145
+	FTab:	85
+	Field:	92
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.146
+	FTab:	85
+	Field:	93
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.147
+	FTab:	85
+	Field:	94
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(GSet.148
+)
+
+(TxPosPly.149
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.150
+	FTab:	14
+	Field:	16
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.151
+	FTab:	14
+	Field:	17
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.152
+	FTab:	14
+	Field:	18
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(DocAct.153
+	Doc:	6
+)
+
+(View.154
+	Name:	"View2"
+	CreationDate:	"12 มิถุนายน 2552 14:59:58"
+	GUIName:	"View"
+	Win:	155
+	CSMgr:	156
+	DocExts:	158
+	DocExts:	159
+	Graphics:	160
+	Dpy:	161
+	TOCWidth:	150
+	CoordPrecision:	2
+)
+
+(DocWin.155
+	Owner:	154
+	X:	50
+	Y:	50
+	W:	478
+	H:	288
+)
+
+(CSMgr.156
+	Client:	157
+)
+
+(CSClient.157
+	Client:	158
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.158
+	Doc:	154
+)
+
+(DocAct.159
+	Doc:	154
+)
+
+(GList.160
+	Dpy:	161
+	FormatNumb:	166
+)
+
+(MapDpy.161
+	Top:	1.00000000000000
+	Right:	1.00000000000000
+	Scale:	162
+	FrameTop:	2.60416666666667
+	FrameRight:	3.26041666666667
+	PageDpy:	163
+	FitToPage:	1
+	MouseLoc:	165
+)
+
+(Numb.162
+	N:	2.60416666666667
+)
+
+(PageDpy.163
+	Top:	2.60416666666667
+	Right:	3.26041666666667
+	ReportUnits:	1
+	Units:	1
+	Scale:	164
+	ZoomRight:	3.26041666666667
+	ZoomTop:	2.60416666666667
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+)
+
+(Numb.164
+	N:	0.30670926517572
+)
+
+(PointD.165
+)
+
+(Numb.166
+)
+
+(LButn.167
+	HelpTopic:	"New_button"
+	Update:	"Doc.NewUpdate"
+	Label:	"&New"
+	Click:	"View.New"
+)
+
+(LButn.168
+	HelpTopic:	"Open_button"
+	Update:	"Doc.OpenUpdate"
+	Label:	"&Open"
+	Click:	"Doc.Open"
+)
+
+(LButn.169
+	HelpTopic:	"Print_button"
+	Update:	"Doc.ActionUpdate"
+	Label:	"P&rint"
+	Click:	"Doc.Action"
+)
+
+(NameDict.170
+)
+
+(NameDict.171
+	Obj:	172
+	Obj:	173
+)
+
+(AVDict.172
+	InternalName:	"Table of Contents Defaults Dialog"
+)
+
+(AVDict.173
+	InternalName:	"_Thor_"
+)
+
+(FN.999
+	Path:	"$HOME"
+)
+
+(TClr.1000
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(AVStr.1001
+	S:	"View"
+)
+
+(AVStr.1002
+	S:	"Table"
+)
+
+(AVStr.1003
+	S:	"Chart"
+)
+
+(AVStr.1004
+	S:	"Layout"
+)
+
+(AVStr.1005
+	S:	"Script"
+)
+
+(AVStr.1006
+	S:	"Project"
+)
+
+(AVStr.1007
+	S:	"Appl"
+)
+

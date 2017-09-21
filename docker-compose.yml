@@ -1,7 +1,7 @@
 version: '2'
 
 services:
-
+  # Just a comment
   geoserver:
     image: fiware/gisdataprovider
     # Reference https://hub.docker.com/r/fiware/gisdataprovider/
